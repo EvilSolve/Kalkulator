@@ -1,12 +1,11 @@
 #include "pch.h"
-#include<iostream>
-
+#include <iostream>
 
 using namespace std;
 
-int odejmowanie (int a, int b)
+int odjemowanie (int b, int c)
 {
-	int c;
-	c=a-b;
-	return c;
+int a;
+a=b-c;
+return a;
 }
