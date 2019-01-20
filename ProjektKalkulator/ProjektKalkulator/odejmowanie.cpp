@@ -2,7 +2,6 @@
 #include<iostream>
 
 
-
 using namespace std;
 
 int odejmowanie (int a, int b)
