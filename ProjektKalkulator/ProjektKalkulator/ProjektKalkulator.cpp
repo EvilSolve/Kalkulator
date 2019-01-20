@@ -3,6 +3,7 @@
 #include "Dodawanie.hpp"
 #include "mnozenie.hpp"
 #include "odejmowanie.hpp"
+#include "Dzielenie.hpp"
 using namespace std;
 int main()
 {
