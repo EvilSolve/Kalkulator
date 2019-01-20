@@ -2,6 +2,7 @@
 #include<iostream>
 #include "Dodawanie.hpp"
 #include "mnozenie.hpp"
+#include "odejmowanie.hpp"
 using namespace std;
 int main()
 {
