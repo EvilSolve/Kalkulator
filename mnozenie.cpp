@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include<iostream>
-
+#include "mnozenie.hpp"
 
 
 using namespace std;
